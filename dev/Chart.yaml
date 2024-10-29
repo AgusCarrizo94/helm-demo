@@ -25,4 +25,4 @@ appVersion: "1.16.0"
 dependencies:
   - name: helm
     version: 0.1.1
-    repository: https://github.com/AgusCarrizo94/helm-demo/helm
+    repository: https://github.com/AgusCarrizo94/helm-demo/tree/main/helm
